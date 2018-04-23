@@ -1,2 +1,2 @@
-# shared-monomers
-Shared monomers for HELM in ChemDraw
+# Shared Monomers
+Shared monomers for testing the HELM feature of ChemDraw
