@@ -1,7 +1,7 @@
 [
     {
         "id":0,
-        "name":"Personal Monomer 1",
+        "name":"Personal Monomer 1 - Version 2",
         "naturalAnalog":"A",
         "polymerType":"PEPTIDE",
         "monomerType":"Backbone",
@@ -24,7 +24,7 @@
 
     {
         "id":0,
-        "name":"Personal Monomer 2",
+        "name":"Personal Monomer 2 - Version 2",
         "naturalAnalog":"A",
         "polymerType":"PEPTIDE",
         "monomerType":"Backbone",
