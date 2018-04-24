@@ -1,7 +1,7 @@
 [
     {
         "id":0,
-        "name":"Personal Monomer 1 - Verson 1",
+        "name":"Personal Monomer Fred - Verson 1",
         "naturalAnalog":"A",
         "polymerType":"PEPTIDE",
         "monomerType":"Backbone",
@@ -11,7 +11,7 @@
         "monomerAsTargetSubstructureScreen":"35,40,54,57,62,88,90,103,118,130,134,138,142,165,169,173,194,225,229,233,234,237,238,242,278,282,285,286,294,297,306,339,341,356,363,364,367",
         "monomerAsTargetExactStructureScreen":"35,40,57,66,90,138,142,145,149,154,160,162,165,173,177,193,210,212,217,218,223,225,228,229,236,237,240,252,253,285,294,297,298,304,306,313,316,326,329,368,370",
         "formula":"C5H7(20F)(21F)(22F)N2O",
-        "symbol":"PM1",
+        "symbol":"Fred",
         "topologyName":"Alpha",
         "stereoName":"Undetermined",
         "attachmentList":
